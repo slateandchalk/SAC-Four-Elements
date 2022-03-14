@@ -1,0 +1,179 @@
+{
+    "@@locale": "en",
+    "puzzleChangeTooltip": "Changing the theme will reset your score",
+    "@puzzleChangeTooltip": {
+        "description": "Shown as a tooltip for puzzle menu buttons"
+    },
+    "puzzleRestartTooltip": "Restarting the puzzle will reset your score",
+    "@puzzleRestartTooltip": {
+        "description": "Shown as a tooltip for the puzzle restart button"
+    },
+    "puzzleChallengeTitle": "Puzzle Challenge",
+    "@puzzleChallengeTitle": {
+        "description": "Shown as the title of the puzzle"
+    },
+    "puzzleNumberOfMoves": "Moves",
+    "@puzzleNumberOfMoves": {
+        "description": "Indicates how many moves have been made on the current puzzle"
+    },
+    "puzzleNumberOfTilesLeft": "Tiles",
+    "@puzzleNumberOfTilesLeft": {
+        "description": "Indicates how many puzzle tiles are not in their correct position"
+    },
+    "puzzleShuffle": "Shuffle",
+    "@puzzleShuffle": {
+        "description": "Shown on the button that shuffle the puzzle"
+    },
+    "puzzleCompleted": "Well done. Congrats!",
+    "@puzzleCompleted": {
+        "description": "Shown as the success state when the puzzle is completed"
+    },
+    "startGame": "Start",
+    "@startGame": {
+        "description": "Shown before the puzzle is started"
+    },
+    "getReady": "Ready...",
+    "@getReady": {
+        "description": "Shown when the puzzle is loading"
+    },
+    "restart": "Restart",
+    "@restart": {
+        "description": "Shown after the puzzle is started and may be restarted"
+    },
+    "countdownGo": "GO!",
+    "@countdownGo": {
+        "description": "Shown when the countdown has just finished and the puzzle is about to start"
+    },
+    "quitGame": "Quit",
+    "@quitGame": {
+        "description": "Shown after the puzzle is started"
+    },
+    "beginGame": "Start",
+    "@beginGame": {
+        "description": "Shown after the puzzle is started"
+    },
+    "nextGame": "Next",
+    "@nextGame": {
+        "description": "Shown after the puzzle is started"
+    },
+    "finishGame": "Finish",
+    "@finishGame": {
+        "description": "Shown after the puzzle is completed"
+    },
+    "closeGame": "Close",
+    "@closeGame": {
+        "description": "Shown after the puzzle is completed"
+    },
+    "generateName": "Generate",
+    "@generateName": {
+        "description": "Shown after the puzzle is started"
+    },
+    "resumeGame": "Resume",
+    "@resumeGame": {
+        "description": "Shown after the puzzle abort"
+    },
+    "continueGame": "Continue",
+    "@continueGame": {
+        "description": "Shown after the puzzle abort"
+    },
+    "successCompleted": "Puzzle challenge completed",
+    "@successCompleted": {
+        "description": "Shown as a title in the Puzzle success state"
+    },
+    "successWellDone": "Well done.\nCongrats!",
+    "@successWellDone": {
+        "description": "Shown as a subtitle in the Puzzle success state"
+    },
+    "successScore": "Score",
+    "@successScore": {
+        "description": "Shown as a score title in the Puzzle success state"
+    },
+    "successNumberOfMoves": "{numberOfMoves} Moves",
+    "@successNumberOfMoves": {
+        "description": "Shown as a number of moves in the Puzzle success state",
+        "placeholders": {
+            "numberOfMoves": {
+                "type": "String",
+                "example": "5"
+            }
+        }
+    },
+    "puzzleTileLabelText": "Value: {value}, position: {x}, {y}",
+    "@puzzleTileLabelText": {
+        "description": "Semantic label for the puzzle tile",
+        "placeholders": {
+            "value": {
+                "type": "String",
+                "example": "5"
+            },
+            "x": {
+                "type": "String",
+                "example": "1"
+            },
+            "y": {
+                "type": "String",
+                "example": "0"
+            }
+        }
+    },
+    "puzzleNumberOfMovesAndTilesLeftLabelText": "Moves: {numberOfMoves}, tiles: {tilesLeft}",
+    "@puzzleNumberOfMovesAndTilesLeftLabelText": {
+        "description": "Semantic label for the puzzle tile",
+        "placeholders": {
+            "numberOfMoves": {
+                "type": "String",
+                "example": "30"
+            },
+            "tilesLeft": {
+                "type": "String",
+                "example": "10"
+            }
+        }
+    },
+    "puzzleDurationLabelText": "{hours} hours {minutes} minutes {seconds} seconds",
+    "@puzzleDurationLabelText": {
+        "description": "Semantic label for the Puzzle timer",
+        "placeholders": {
+            "hours": {
+                "type": "String",
+                "example": "2"
+            },
+            "minutes": {
+                "type": "String",
+                "example": "6"
+            },
+            "seconds": {
+                "type": "String",
+                "example": "24"
+            }
+        }
+    },
+    "sacLabelText": "SAC",
+    "@sacLabelText": {
+        "description": "Semantic label for the SAC"
+    },
+    "airLabelText": "Air",
+    "@airLabelText": {
+        "description": "Semantic label for the Air"
+    },
+    "waterLabelText": "Water",
+    "@waterLabelText": {
+        "description": "Semantic label for the Water"
+    },
+    "earthLabelText": "Earth",
+    "@earthLabelText": {
+        "description": "Semantic label for the Earth"
+    },
+    "fireLabelText": "Fire",
+    "@fireLabelText": {
+        "description": "Semantic label for the Fire"
+    },
+    "successShareYourScoreTitle": "Yay, congrats you've finished the game!",
+    "@successShareYourScoreTitle": {
+        "description": "Shown as a share title in the Puzzle success state"
+    },
+    "successShareYourScoreMessage": "Not a big surprise that you won all the four elements of nature!",
+    "@successShareYourScoreMessage": {
+        "description": "Shown as a share message in the Puzzle success state"
+    }
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "667580597198",
+    "project_id": "sacfourelements",
+    "storage_bucket": "sacfourelements.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667580597198:android:0ba97bf6e883265291a19f",
+        "android_client_info": {
+          "package_name": "com.sac.sac_slide_puzzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667580597198-ik5rfu32advpdg2b68oddggcbm1fedht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvo-Q4VmgWZWsdnkHoYW2zzk2BgaZJYnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667580597198-ik5rfu32advpdg2b68oddggcbm1fedht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
